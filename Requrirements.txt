@@ -1,0 +1,8 @@
+1.python =3.8.10
+2.opencv =4.2.0
+3.cv2.aruco(package)
+4.Time
+5.Flask  =2.3.3
+6.Raspberry pi 4 modelB (Raspbian bullseye 64bit)
+7.Rpi Camera
+
